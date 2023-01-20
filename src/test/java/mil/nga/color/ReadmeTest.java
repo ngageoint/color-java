@@ -24,7 +24,7 @@ public class ReadmeTest {
 		Color hex = Color.color("#BA55D3");
 		Color hexAlpha = Color.color("#D9FFFF00");
 		Color hexInteger = Color.color(0xFFC000);
-		Color hexIntegerAlpha = new Color(0x40FFA500);
+		Color hexIntegerAlpha = Color.color(0x40FFA500);
 		Color integer = Color.color(16711680);
 		Color integerAlpha = Color.color(-12303292);
 		Color hexSingles = Color.color("FF", "C0", "CB");
